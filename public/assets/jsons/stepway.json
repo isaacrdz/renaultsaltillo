@@ -1,0 +1,63 @@
+{
+  "group": "stepway",
+  "vehicle": "STEPWAY",
+  "title": "STEPWAY 2023",
+  "versions": [
+    {
+      "version": "Zen TM 2023",
+      "price": "304,000",
+      "image": "stepway",
+      "features": [
+        "Barras de techo",
+        "Rines de aluminio de 16",
+        "Faros de niebla delanteros"
+      ]
+    },
+    {
+      "version": "Intens TM 2023",
+      "price": "354,300 ",
+      "image": "stepway",
+      "features": [
+        "Sistema de navegación Media Nav 2.0",
+        "Sensores de reversa",
+        "Aire acondicionado automático"
+      ]
+    },
+    {
+      "version": "Intens CVT 2023",
+      "price": "380,500",
+      "image": "stepway",
+      "features": [
+        "Rin de 16 Jogger diamantado",
+        "Eco mode",
+        "AC con regulador de una zona",
+        "Cámara de reversa"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Velocidades",
+      "image": "transmision.png",
+      "texts": ["Transmisión Manual: 5 velocidades"]
+    },
+    {
+      "title": "Consumo de Gasolina / Combustible",
+      "image": "gasolina.png",
+      "texts": [
+        "Carretera: 20.3 km/l (TM)",
+        "Ciudad: 14.5 km/l (TM)",
+        "Mixto: 16.6 km/l (TM)"
+      ]
+    },
+    {
+      "title": "Dimensiones",
+      "image": "llanta.png",
+      "texts": [
+        "Alto: 1640 mm con barras de techo",
+        "Ancho: 1758 mm",
+        "Largo: 4068 mm"
+      ]
+    }
+  ]
+}

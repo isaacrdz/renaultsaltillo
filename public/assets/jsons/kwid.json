@@ -1,0 +1,75 @@
+{
+  "group": "kwid",
+  "vehicle": "KWID",
+  "title": "KWID 2023",
+  "versions": [
+    {
+      "version": "Intens 2023",
+      "price": "230,100",
+      "image": "kwid2_2023",
+      "features": [
+        "Rines de acero de 14",
+        "Espejos exteriores en gris",
+        "Equipo de audio con radio /MP3 / AUX /USB"
+      ]
+    },
+    {
+      "version": "Iconic 2023",
+      "price": "254,100",
+      "image": "kwid2_2023",
+      "features": [
+        "Rines de acero de 14 con cubierta flex",
+        "Espejos exteriores al color de la carrocería",
+        "Pantalla táctil de 7 con radio/ MP3 / AUX/ USB / con Smart phone Replication (Android Auto & Apple CarPlay)"
+      ]
+    },
+    {
+      "version": "Bitono 2023",
+      "price": "261,400",
+      "image": "kwid2_2023",
+      "features": [
+        "Rines de acero de 14 con cubierta flex",
+        "Espejos exteriores al color de la carrocería",
+        "Pantalla táctil de 7 con radio/ MP3 / AUX/ USB / con Smart phone Replication (Android Auto & Apple CarPlay)"
+      ]
+    },
+    {
+      "version": "Outsider 2023",
+      "price": "267,200",
+      "image": "kwid2_2023",
+      "features": [
+        "Rines de acero de 14 con cubierta flex",
+        "Espejos exteriores al color de la carrocería",
+        "Pantalla táctil de 7 con radio/ MP3 / AUX/ USB / con Smart phone Replication (Android Auto & Apple CarPlay)"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Conócela a fondo",
+      "image": "kwid/img1.png",
+      "texts": [
+        "Tu nueva Renault KWID está pensada para llevarte a conectar con el mundo."
+      ]
+    },
+    {
+      "title": "Diseño único",
+      "image": "kwid/img2.jpg",
+      "texts": [
+        "Sorpréndete con cada detalle del espíritu SUV de Renault KWID."
+      ]
+    },
+    {
+      "title": "Equipada para lo que venga",
+      "image": "kwid/img3.jpg",
+      "texts": [
+        "La SUV de los compactos, no solo tiene un look impecable, sino que está pensada para ofrecerte el confort que te mereces."
+      ]
+    },
+    {
+      "title": "Personaliza tu Renault KWID",
+      "image": "kwid/img4.jpg",
+      "texts": ["Descubre nuestros accesorios y siéntete más seguro."]
+    }
+  ]
+}

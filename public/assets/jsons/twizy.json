@@ -1,0 +1,16 @@
+{
+    "group": "twizy",
+    "vehicle": "TWIZY",
+    "title": "TWIZY 2021",
+    "banners":[ 
+        {"group":"twizy", "image":"twizy", "type":"png", "version": "fixed"}
+    ],
+    "versions":[
+        {"version":"Techno", "price":"343,200", "image":"twizy", "features":["Rines de color 13”","Portaobjetos respaldo trasero","Banqueta con cierre y llave"]}
+    ],
+    "extras": [
+            {"title":"Velocidades", "image":"transmision.png", "texts":["Transmisión Tipo: Directa con un reductor"]},
+            {"title":"Rendimiento", "image":"gasolina.png", "texts":["Emisiones CO2; Cero emisiones: 100% eléctrico"]},
+            {"title":"Dimensiones", "image":"llanta.png", "texts":["Anchura delantera: 1234 mm","Longitud total: 2338 mm","Altura exterior: 1454 mm","Distancia entre ejes: 1686 mm"]}
+        ]
+}

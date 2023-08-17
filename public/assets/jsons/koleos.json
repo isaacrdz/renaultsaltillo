@@ -1,0 +1,56 @@
+{
+  "group": "koleos",
+  "vehicle": "KOLEOS",
+  "title": "KOLEOS 2023",
+  "versions": [
+    {
+      "version": "Intens CVT 2023",
+      "price": "573,200",
+      "image": "koleos",
+      "features": [
+        "Pantalla táctil con navegador de 7” y funciones multimedia",
+        "Tarjeta inteligente con función presencial",
+        "Sensores de luz y de lluvia",
+        "Sistema de audio de 8 bocinas"
+      ]
+    },
+    {
+      "version": "Iconic CVT 2023",
+      "price": "671,800",
+      "image": "koleos",
+      "features": [
+        "Pantalla táctil de 8.7” con navegador y funciones multimedia",
+        "Faros LED Pure Vision",
+        "Tecnología Easy Park Assist",
+        "Iluminación interior y Techo panorámico electrocromático"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Velocidades",
+      "image": "transmision.png",
+      "texts": ["Transmisión Automática: CVT"]
+    },
+    {
+      "title": "Consumo de Gasolina / Combustible",
+      "image": "gasolina.png",
+      "texts": [
+        "Carretera: 17.3 km/l (CVT)",
+        "Ciudad: 12.7 km/l (CVT)",
+        "Mixto: 14.4 km/l (CVT)"
+      ]
+    },
+    {
+      "title": "Dimensiones",
+      "image": "llanta.png",
+      "texts": [
+        "Alto: 1678 mm",
+        "Ancho: 1843 mm",
+        "Largo: 4672 mm",
+        "Distancia entre ejes: 2705 mm",
+        "Espacio entre asientos: 289 mm"
+      ]
+    }
+  ]
+}

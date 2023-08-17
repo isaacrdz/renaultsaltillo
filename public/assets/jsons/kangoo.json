@@ -1,0 +1,14 @@
+{
+  "group": "kangoo",
+  "vehicle": "KANGOO",
+  "title": "KANGOO 2023",
+  "versions": [
+    {
+      "version": "Intens TM 2023",
+      "price": "338,900",
+      "image": "kangoo",
+      "features": ["Rines acero 15"]
+    }
+  ],
+  "extras": []
+}

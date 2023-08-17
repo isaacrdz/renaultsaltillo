@@ -1,0 +1,61 @@
+{
+  "group": "duster",
+  "vehicle": "DUSTER",
+  "title": "Duster 2023",
+  "versions": [
+    {
+      "version": "Intens TM 2023",
+      "price": "379,300",
+      "image": "duster",
+      "features": [
+        "Cámara y sensores de reversa",
+        "Sistema multimedia con pantalla táctil de 7” con navegador",
+        "Rin aluminio 16” color gris obscuro"
+      ]
+    },
+    {
+      "version": "Iconic TM 2023",
+      "price": "355,800",
+      "image": "duster",
+      "features": [
+        "Cámara y sensores de reversa",
+        "Sistema multimedia con pantalla táctil de 7” con navegador",
+        "Rin aluminio 16” color gris obscuro"
+      ]
+    },
+    {
+      "version": "Iconic CVT 2023",
+      "price": "465,100",
+      "image": "duster",
+      "features": [
+        "Cámara y sensores de reversa",
+        "Sistema multimedia con pantalla táctil de 7” con navegador",
+        "Rin aluminio 16” color gris obscuro"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Velocidades",
+      "image": "transmision.png",
+      "texts": [
+        "Transmisión Automática impulsional: 4 velocidades.",
+        "Transmisión Manual: 6 velocidades."
+      ]
+    },
+    {
+      "title": "Consumo de Gasolina / Combustible",
+      "image": "gasolina.png",
+      "texts": [
+        "Carretera: 18.6 km/l (TM) / 17.9 km/l (TA)",
+        "Ciudad: 13.3 km/l (TM) / 11.9 km/l (TA)",
+        "Mixto: 15.4 km/l (TM) / 14.0 km/l (TA)"
+      ]
+    },
+    {
+      "title": "Dimensiones",
+      "image": "llanta.png",
+      "texts": ["Alto: 1690 mm", "Ancho: 1822 mm", "Largo: 4315 mm"]
+    }
+  ]
+}

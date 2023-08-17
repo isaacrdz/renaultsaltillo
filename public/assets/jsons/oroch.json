@@ -1,0 +1,79 @@
+{
+  "group": "oroch",
+  "vehicle": "OROCH",
+  "title": "OROCH 2023",
+  "versions": [
+    {
+      "version": "Life TM 2023",
+      "price": "375,000",
+      "image": "oroch",
+      "features": [
+        "Primera Doble cabina del segmento",
+        "Dirección electrohidráulica con suspension multilink trasera",
+        "Rin de aluminio de 16”"
+      ]
+    },
+    {
+      "version": "Zen TM 2023",
+      "price": "399,300",
+      "image": "oroch",
+      "features": [
+        "Primera Doble cabina del segmento",
+        "Dirección electrohidráulica con suspension multilink trasera",
+        "Rin de aluminio de 16”"
+      ]
+    },
+    {
+      "version": "Outsider TM 2023",
+      "price": "429,700",
+      "image": "oroch",
+      "features": [
+        "Doble Cabina con look deportivo",
+        "Primera transmisión automática del mercado",
+        "Cubierta de lona suave y rejilla de protección",
+        "Sistema multimedia Media Nav 2.0"
+      ]
+    },
+    {
+      "version": "Outsider TA 2023",
+      "price": "472,200",
+      "image": "oroch",
+      "features": [
+        "Doble Cabina con look deportivo",
+        "Primera transmisión automática del mercado",
+        "Cubierta de lona suave y rejilla de protección",
+        "Sistema multimedia Media Evolution con pantalla táctil de 7 y Smartphone Replication"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "La mejor pick-up",
+      "image": "oroch/img1.jpg",
+      "texts": [
+        "No importa si tu destino es parte de tu día a día o una nueva aventura, con tu nueva Renault OROCH, podrás hacerlo cómodamente a bordo de la primera doble cabina del segmento."
+      ]
+    },
+    {
+      "title": "La mejor SUV",
+      "image": "oroch/img2.jpg",
+      "texts": [
+        "Intenta todo lo que quieras, tus recorridos en la nueva Renault OROCH, no serán pesados ni aburridos, ya que ofrece la única transmisión automática de su categoría."
+      ]
+    },
+    {
+      "title": "Viaja seguro",
+      "image": "oroch/img3.jpg",
+      "texts": [
+        "La nueva Renault OROCH está equipada con todo lo que necesitas para sentirte seguro al volante, desde frenos ABS y bolsas de aire, hasta anclaje ISOFIX para los más pequeños. Todo para mantenerte a ti y a los tuyos seguros."
+      ]
+    },
+    {
+      "title": "Imagina tu mundo",
+      "image": "oroch/img4.jpg",
+      "texts": [
+        "Hacer las cosas como a ti te gusta es parte de la actitud para intentarlo todo, por eso los accesorios de la nueva Renault OROCH te permiten adaptar tu estilo en cualquier situación y superar todos los obstáculos."
+      ]
+    }
+  ]
+}

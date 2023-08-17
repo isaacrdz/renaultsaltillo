@@ -1,0 +1,71 @@
+{
+  "cars": [
+    {
+      "id": "duster",
+      "title": "DUSTER",
+      "image": "duster_2022",
+      "to": "duster"
+    },
+    {
+      "id": "koleos",
+      "title": "KOLEOS",
+      "image": "koleos_2023",
+      "to": "koleos"
+    },
+    { "id": "kwid", "title": "KWID", "image": "kwid_2023", "to": "kwid" },
+    { "id": "oroch", "title": "OROCH", "image": "oroch_2022", "to": "oroch" },
+    {
+      "id": "kangoo",
+      "title": "KANGOO",
+      "image": "kangoo_2023",
+      "to": "kangoo"
+    },
+    {
+      "id": "stepway",
+      "title": "STEPWAY",
+      "image": "stepway_2023",
+      "to": "stepway"
+    }
+  ],
+  "banners": {
+    "version": "230720",
+    "list": [{ "group": "duster", "type": "jpeg", "image": "Duster-julio" }]
+  },
+  "schedules": [],
+  "social": [
+    { "type": "facebook", "data": { "url": "renaultsaltillo" } },
+    { "type": "instagram", "data": { "url": "renault_saltillo" } },
+    {
+      "type": "whatsapp",
+      "data": { "number": "8444505300", "url": "https://wa.me/528444505300" }
+    }
+  ],
+  "services": [
+    { "title": "Prueba de manejo", "image": "blk1.jpg", "to": "/contacto" },
+    {
+      "title": "Conoce nuestros modelos",
+      "image": "blk2.jpg",
+      "to": "/contacto"
+    }
+  ],
+  "contact": {
+    "text": "Para contactarnos por favor llena este sencillo formulario y no olvides explicar el motivo antes de hacer clic en el botón de Enviar. Pronto nos pondremos en contacto contigo para hacer un oportuno seguimiento de tu caso.",
+    "address": "Blvd. Venustiano Carranza #6616 Col. Las Arboledas C.P. 25200",
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14406.890433846007!2d-100.9727424!3d25.4809364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868812d6d50beb7b%3A0x9f4f3303e9187fce!2sRenault%20Saltillo%20-%20Surman!5e0!3m2!1ses-419!2sus!4v1689918103031!5m2!1ses-419!2sus",
+    "options": [
+      {
+        "type": "whatsapp",
+        "data": {
+          "text": "+52 844 450 5300",
+          "number": "8444505300",
+          "url": "https://wa.me/528444505300"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "address": "Blvd. Venustiano Carranza #6616 Col. Las Arboledas C.P. 25200",
+    "legal": "Aviso de Privacidad"
+  },
+  "terms": "Imágenes de uso ilustrativo. Pecios expresados en Pesos Mexicanos. Precios sujetos a cambios sin previo aviso. Vigencia Septiembre 2022"
+}
