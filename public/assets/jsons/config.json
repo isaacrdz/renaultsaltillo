@@ -46,6 +46,13 @@
       "title": "Conoce nuestros modelos",
       "image": "blk2.jpg",
       "to": "/contacto"
+    },
+    {
+      "title": "Realiza tu",
+      "subtitle": "cita de servicio",
+      "renderTitle": true,
+      "image": "blk3.jpg",
+      "to": "/contacto?motivo=servicio"
     }
   ],
   "contact": {
