@@ -29,7 +29,10 @@
   ],
   "banners": {
     "version": "230720",
-    "list": [{ "group": "duster", "type": "jpeg", "image": "Duster-julio" }]
+    "list": [
+      { "group": "duster", "type": "png", "image": "duster" },
+      { "group": "koleos", "type": "png", "image": "koleos" }
+    ]
   },
   "schedules": [],
   "social": [
@@ -46,6 +49,13 @@
       "title": "Conoce nuestros modelos",
       "image": "blk2.jpg",
       "to": "/contacto"
+    },
+    {
+      "title": "Realiza tu",
+      "subtitle": "cita de servicio",
+      "renderTitle": true,
+      "image": "blk3.jpg",
+      "to": "/contacto?motivo=servicio"
     }
   ],
   "contact": {
